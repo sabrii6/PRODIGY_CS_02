@@ -31,5 +31,18 @@ cd PRODIGY_CS_02
 ````
 ### Run the Script:
 ````
-python3 cipher.py
+python3 image_encryption.py
 ````
+## Example
+
+This is a simple example demonstrating the usage of the image encryption and decryption tool implemented in Python.
+````
+Enter the input image file path: /home/kali/krishna.png
+
+Enter the encryption key (an integer): 23
+
+Encryption completed. Encrypted image saved as 'encrypted_image.png'
+
+Decryption completed. Decrypted image saved as 'decrypted_image.png'
+````
+
