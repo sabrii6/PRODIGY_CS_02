@@ -31,7 +31,7 @@ cd PRODIGY_CS_02
 ````
 ### Run the Script:
 ````
-python3 image_encryption.py
+python3 Image_encryption.py
 ````
 ## Example
 
